@@ -1,6 +1,6 @@
-###### *<div align="right"><sub>// design by serene-brew</sub></div>*
 <a id="readme-top"></a>
-<p align="center""><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header"></p>
+###### *<div align="right"><sub>// design by serene-brew</sub></div>*
+<p align="center""><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=994d00&amp;height=100&amp;section=header"></p>
 <div align="center">
   <img src="./serene-brew.png" height=150 width=150>
   
